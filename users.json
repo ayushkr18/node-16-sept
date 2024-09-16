@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Barclay",
+        "last_name": "Tassel",
+        "email": "btassel0@homestead.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Kandy",
+        "last_name": "Branney",
+        "email": "kbranney1@usatoday.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Rowney",
+        "last_name": "Elliston",
+        "email": "relliston2@cbsnews.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Horten",
+        "last_name": "Andrews",
+        "email": "handrews3@multiply.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Ashlen",
+        "last_name": "Meddick",
+        "email": "ameddick4@pagesperso-orange.fr",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Sanders",
+        "last_name": "Slayny",
+        "email": "sslayny5@pbs.org",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Beale",
+        "last_name": "Schohier",
+        "email": "bschohier6@sitemeter.com",
+        "gender": "Non-binary"
+    },
+    {
+        "id": 8,
+        "first_name": "Stinky",
+        "last_name": "Scotsbrook",
+        "email": "sscotsbrook7@odnoklassniki.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Skylar",
+        "last_name": "Harford",
+        "email": "sharford8@mail.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Pavla",
+        "last_name": "Supple",
+        "email": "psupple9@jugem.jp",
+        "gender": "Female"
+    }
+]
